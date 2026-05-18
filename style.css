@@ -454,6 +454,11 @@ h1, h2, h3, .en {
     text-align: center;
 }
 
+.contact-intro {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
 /* Shop Info Section */
 .shop-info-wrapper {
     display: flex;
@@ -624,6 +629,16 @@ h1, h2, h3, .en {
         font-size: 0.85rem;
     }
 
+    .meat-intro-text {
+        font-size: 0.4rem;
+        white-space: nowrap;
+        letter-spacing: -0.02em;
+    }
+
+    .contact-intro {
+        text-align: left;
+        font-size: 0.7rem;
+    }
     .content-block h3,
     .concept-text h3 {
         font-size: 1.2rem;
